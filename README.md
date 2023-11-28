@@ -4,7 +4,7 @@
 
 <img align="right" src="https://i.ibb.co/7g7MdrS/Hand-coding-bro.png" alt="SVG Animation" width="250" height="250">
 
-﹒Hello! I'm Jennifer, i'm a dev who loves working with frontend.  ⸝⸝˚₊・  
+﹒Hello! I'm Jennifer, i'm a dev who loves working with frontend and student at Unifor.  ⸝⸝˚₊・  
 
 
 **🌸 What I've been studying:**
